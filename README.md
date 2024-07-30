@@ -23,7 +23,9 @@ source("/path/to/lineage_libraries.R")
 
 df = readBC_scRNA(fqin="path/to/SAMPLE_R1.fastq.gz",
                   fqin2="path/to/SAMPLE_R2.fastq.gz",
-                  sample="SAMPLE_NAME",max.mismatch=1,condition="WT",outDir = "/path/to/results.rds")
+                  sample="SAMPLE_NAME",max.mismatch=1,
+                  condition="WT",
+                  outDir = "/path/to/results.rds")
 
 # Example 2: Read BC from Quant-seq Bulk data
 # single end sequencing of the amplicon containg the barcode
