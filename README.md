@@ -1,5 +1,5 @@
 # CloneTrackerXP_exstraction
-Cellecta CloneTraker XP barcode exstraction and manipulation
+Cellecta CloneTraker XP barcode exstraction and manipulation used in [Pellecchia et al. 2024](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01327-2)
 
 ``` r
 #####################
